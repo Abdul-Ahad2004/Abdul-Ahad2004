@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad2004&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul-Ahad2004&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📈 Activity Graph
